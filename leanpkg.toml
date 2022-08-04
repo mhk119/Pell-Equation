@@ -1,0 +1,8 @@
+[package]
+name = "Pell"
+version = "0.1"
+lean_version = "leanprover-community/lean:3.45.0"
+path = "src"
+
+[dependencies]
+mathlib = {git = "https://github.com/leanprover-community/mathlib", rev = "777082da584ee55c55d6f2da1ec428004d9e0999"}
