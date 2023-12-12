@@ -9,5 +9,5 @@ Our formalization closely follows the proof using [Dirichlet's theorem on diopha
 |-----|--------------------|------------------------------------------------------------------------------------------------------------------|
 | 1   | Theorem1           | Dirichlet's theorem (Lemma 1 [here](https://imomath.com/index.cgi?page=ntPellsEquationSolutions))                |
 | 2   | Corollary2         | Descent step (Lemma 2 [here](https://imomath.com/index.cgi?page=ntPellsEquationSolutions))                       |
-| 3   | Theorem3           | Existence of Solutions to Pell's (Theorem 3 [here](https://imomath.com/index.cgi?page=ntPellsEquationSolutions)])|
+| 3   | Theorem3           | Existence of Solutions to Pell's (Theorem 3 [here](https://imomath.com/index.cgi?page=ntPellsEquationSolutions))|
 | 4   | Theorem4           | Characterization of Solutions to Pell's (WIP)                                                                    |
